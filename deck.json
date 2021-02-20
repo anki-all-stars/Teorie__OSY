@@ -1,0 +1,1082 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "a8e7d318-7396-11eb-a4fa-38d5479d0148",
+    "deck_config_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+            "currentValue": 120,
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxLife": 120,
+            "maxTaken": 60,
+            "name": "[Intense] English C1",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50,
+                "separate": true
+            },
+            "recover": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 50
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "9EXxdVYDERHPlrbQMwE2Ux_-a8b1sv5-3VhN81Qlfdg.original.fullsize.png",
+        "Ed57hm6WYurkmZTkbC50PRxz3X6eGaKsUpBRoEaORQw.original.fullsize.png",
+        "QLRjc3iLcDjSZCnskoc9mKKl1_mxpOm7oRdPHVLjM3Y.original.fullsize.png",
+        "SnLwAfUS_OOyKLrg-n8Br4vKP9bCZN5VouY51jrl8m4.original.fullsize.png",
+        "VU2jFqOdce0m5aPq_f7HbNvlOmZg4T6JxBP9r_ye8yA.original.fullsize.png",
+        "Z_EtBFjheaBkiQF8uFvWnDyD40efWu3-8jFoXMoSMTQ.original.fullsize.png",
+        "_3mj2jeU2N0tf1e3kufGw462F1L95IvGhOp_aAeAhJg.original.fullsize.png",
+        "nNnst4_qAOcEHrrI79949aHMoSi4mFWCnZ5Valkiagg.original.fullsize.png",
+        "paste-06ce560ced04ab560fb8d90e52b01c452bb1b701.jpg",
+        "paste-0b9489733f4ffe11826b86e6bb15c06698c06dae.jpg",
+        "paste-12dce5e156fe4861fe99271998a594c99096a3f3.jpg",
+        "paste-1b3ac257149c4d307951ccd253ad96098bc275cc.jpg",
+        "paste-22300cc89aaf75793d642e6c01bb2880867ece4a.jpg",
+        "paste-2537bd15b165594b073c5d14794ddb537da6f427.jpg",
+        "paste-293e067427bf5b0167669a6f5b87aab63bf52806.jpg",
+        "paste-2aef09889549f128697cb7eb9e40d5a263deb5cd.jpg",
+        "paste-2dc1e5dcd3fb7856ea5b3258d62127c7ed170b8a.jpg",
+        "paste-30f449989def76217b8b9d8f878ea7cc8217a6fa.jpg",
+        "paste-3898b4ecae7eba3f0084d961d8eefadc58ed7526.jpg",
+        "paste-3e1c680f4ee725406a9455de533b61dd5f9d5968.jpg",
+        "paste-43c8469f11c22ae221f3ba2dad1f54ac2f7462d9.jpg",
+        "paste-46caa55c6e9e673faabe2b70f47480663af377df.jpg",
+        "paste-485e1b4fa80b78ee6ec1b5d1d1ae0c50c89a8fbd.jpg",
+        "paste-52906e7c6ae9f1cf5ae32dae39b5735214d3f6c0.jpg",
+        "paste-6207578e60f931522e7f12039cc4f398e7dee9dd.jpg",
+        "paste-651bb4e8620b8734dfee30f73f6b4cc5d2b91982.jpg",
+        "paste-6708201adb1726f89a5cf8896e6f9415fd5e545c.jpg",
+        "paste-6d9f1979805a021c7c969ffe692187212d3fdfc2.jpg",
+        "paste-6fc54e76fb461df7989e94a0a3560ba84e887b8c.jpg",
+        "paste-7821dcdc44fa638093bd09fbe5989c38b01bae53.jpg",
+        "paste-7d402ada74e404a64a0408438ebe533f681a17ee.jpg",
+        "paste-800cdd1e4227e341084ec38091dcefa858064498.jpg",
+        "paste-801b7cc06b52a0ce018994a77a96daafb4eaeed7.jpg",
+        "paste-844fa9b832defa4e600b2a5a83a90db9019856ac.jpg",
+        "paste-9ac0bbf077f7502274dcf014fcb90a750c9b8c12.jpg",
+        "paste-ab5f91805ab584ddf7e6fdfd5f2a4f7b88d66ee1.jpg",
+        "paste-aee612cbc022ad54946ee578893feb7394402753.jpg",
+        "paste-b560d9375cb14595726c545ae079c7c68aa1f491.jpg",
+        "paste-b8316c5d1bc39a540cc01b5b37c0be2017abecb7.jpg",
+        "paste-bd86eb7b4f6e56e1d47b3ca32c5637f73de62024.jpg",
+        "paste-c2a5fb19e3291f811f8fcfb19255df27bdbea9d1.jpg",
+        "paste-ceb0223f5bd8d40d8881886c98585ace843f1023.jpg",
+        "paste-dc4b2a020dc3f728143b83e5adf43abfcc9972aa.jpg",
+        "paste-e32893c7b2d727a39c03fc4cde546e4f08d8a714.jpg",
+        "paste-f7518680742d0c74cf7af24d6b7694fca09cacaa.jpg",
+        "paste-f759b3facd2075c7dd4d4f962ac54655bbeb2092.jpg",
+        "paste-f75dadc0bb715deeaf14705aaa7710b2b5772bf9.jpg",
+        "rlQBnmnBvXHgrF_sN9UOK1GBZfqkmVwsd8KuJP9QUak.original.fullsize.png",
+        "tB1mgvE95H5kLitDFh_IoQGJs5wccUMR4NXkau_hR_I.original.fullsize.png",
+        "wyndYyyaQr_1KwjAwYqr33-INX63pEHFzEhS0e7X7HM.original.fullsize.png"
+    ],
+    "name": "Teorie::OSY",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black;\n text-align: center;\n background-color: white;\n}\n\n.solution {\n text-align: left;\n}",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Question",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Solution",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "CVUT",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "osy-3-tyden"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{Question}}\n\n<hr id=answer>\n\n<div style=\"text-align: center;\">\n    <div style=\"display: inline-block; text-align: left;\">\n\t\t{{Solution}}\n    </div>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Question}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš model výpočetního systému",
+                "<img src=\"SnLwAfUS_OOyKLrg-n8Br4vKP9bCZN5VouY51jrl8m4.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "mDhsF<,>*`",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je ISA?",
+                "Instruction Set Architecture<div>&nbsp;- Definuje množinu instrukcí, adresní režimy, ...</div><div>&nbsp;- Definuje množinu registrů, organizace paměti, organizaci V/V</div><div>&nbsp;- Privilegované úrovně ( módy )&nbsp;</div>",
+                ""
+            ],
+            "guid": "P*G75>1=Q~",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš privilegované módy v procesorech od Intelu",
+                "<div><img src=\"paste-12dce5e156fe4861fe99271998a594c99096a3f3.jpg\" style=\"color: var(--text-fg);\"><br></div>",
+                ""
+            ],
+            "guid": "bM$%}c/c/1",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou dva základní privilegované módy?",
+                "<img src=\"paste-1b3ac257149c4d307951ccd253ad96098bc275cc.jpg\">",
+                ""
+            ],
+            "guid": "y>{hpqmAE",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké je rozdělení procesorů podle typu instrukcí?",
+                "CISC ( Complex Instruction Set Computer )<div>RISC ( Reduced Instruction Set Computer )</div>",
+                ""
+            ],
+            "guid": "x=O2h+o&Ob",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš typy instrukcí CISC",
+                "<img src=\"paste-0b9489733f4ffe11826b86e6bb15c06698c06dae.jpg\"><div><img src=\"QLRjc3iLcDjSZCnskoc9mKKl1_mxpOm7oRdPHVLjM3Y.original.fullsize.png\"><br></div>",
+                "<img src=\"nNnst4_qAOcEHrrI79949aHMoSi4mFWCnZ5Valkiagg.original.fullsize.png\">"
+            ],
+            "guid": "i{!7=Yk?yk",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš typy instrukcí RISC",
+                "<img src=\"paste-3e1c680f4ee725406a9455de533b61dd5f9d5968.jpg\"><div><img src=\"rlQBnmnBvXHgrF_sN9UOK1GBZfqkmVwsd8KuJP9QUak.original.fullsize.png\"><br></div>",
+                "<img src=\"nNnst4_qAOcEHrrI79949aHMoSi4mFWCnZ5Valkiagg.original.fullsize.png\">"
+            ],
+            "guid": "rr_W?|(&0N",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Uveď a větou popiš fáze zpracování instrukcí v CPU",
+                "<img src=\"paste-6207578e60f931522e7f12039cc4f398e7dee9dd.jpg\">",
+                "<img src=\"9EXxdVYDERHPlrbQMwE2Ux_-a8b1sv5-3VhN81Qlfdg.original.fullsize.png\">"
+            ],
+            "guid": "d&]M{5}n9d",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš proudové jednotky v CPU",
+                "<img src=\"Z_EtBFjheaBkiQF8uFvWnDyD40efWu3-8jFoXMoSMTQ.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "dXj4OLh^8-",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké je rozdělený procesorů podle pořadí zpracování instrukcí?",
+                "<img src=\"wyndYyyaQr_1KwjAwYqr33-INX63pEHFzEhS0e7X7HM.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "E?!e}|ehFl",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké je rozdělený procesorů podle počtu jader?",
+                "<img src=\"VU2jFqOdce0m5aPq_f7HbNvlOmZg4T6JxBP9r_ye8yA.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "f7l~}-u#Q$",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakým způsobem dokáže jedno CPU na jednom jádře vykonávat více instrukčních proudů?",
+                "Pomocí hyper-threading (Intel) a multi-threading (SPARC T)",
+                "<img src=\"_3mj2jeU2N0tf1e3kufGw462F1L95IvGhOp_aAeAhJg.original.fullsize.png\">"
+            ],
+            "guid": "rc4HU^(f~Q",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co jsou přerušení?",
+                "Asynchronní reakce na nějakou událost. Normální zpracování instrukčního proudu jádra je přerušeno a začne se provádět obslužná rutina přerušení.",
+                "<img src=\"tB1mgvE95H5kLitDFh_IoQGJs5wccUMR4NXkau_hR_I.original.fullsize.png\">"
+            ],
+            "guid": "vO[806,gh^",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy dochází k přerušení?",
+                "Při přepnutí do jiného módu CPU<div>Při chybě (např. dělení nulou)</div><div><br></div><div>Když V/V zařízení žádá o pozornost (V/V je češtinsky pro I/O)<br>Generováno řadičem zařízení při dokončení opreace / chybě</div>",
+                "<img src=\"Ed57hm6WYurkmZTkbC50PRxz3X6eGaKsUpBRoEaORQw.original.fullsize.png\">"
+            ],
+            "guid": "Cb&ws)rlqM",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Druhy rychlé paměti",
+                "NVRAM<div>RAM</div>",
+                ""
+            ],
+            "guid": "uR:Mgcw(zo",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je sběrnice?",
+                "Zajišťuje přenos dat a řídících povelů mezi jednotlivými částmi",
+                ""
+            ],
+            "guid": "ltCzU}LOSU",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená UMA",
+                "Uniform memory access",
+                ""
+            ],
+            "guid": "ci|YO9Ws^u",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš jak funguje UMA",
+                "U systému, který se skládá z něolika identických jader, které jsou porpojena sdílenou sběrnici a všchny jádra sdílí stejnou pamět, přístupový čas do paměti je pro všechny jádra téměr stejný<div><br></div><div>Místy označována jako SMP ( symmetric multiprocessor )</div>",
+                ""
+            ],
+            "guid": "g`ZbE]7<dz",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je NUMA",
+                "Non-uniform memory access",
+                ""
+            ],
+            "guid": "G$xEdQR%Tr",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš architekturu NUMA",
+                "Lokální pamět uzlu je viditelná pro jádra z ostatních uzlů<div>Přístup do vzdálené paměti je pomalejší než do lokální paměti</div><div>OS má znalost o paměťových latencích a může ji využívat při plánování jader</div>",
+                ""
+            ],
+            "guid": "mnOgy&2eq.",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj program, jeho reprezentaci",
+                "Program je sled instrukcí. V systému reprezentován spustitelným binárním programem, který je uložený v sekundární paměti (např. disk).",
+                ""
+            ],
+            "guid": "F%By8DHCpB",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj proces",
+                "Instance spuštěného programu/aplikace.<div><br></div><div>Jsou v rámci něho alokovány prostředky (pamět, vlákna, ...)</div>",
+                ""
+            ],
+            "guid": "o]Wksu:gy,",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co dědí nový proces po rodičovském procesu",
+                "Např. tabulka deskriptorů souborů",
+                ""
+            ],
+            "guid": "Q8~]kY,1FK",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co nedědí nový proces po rodičovském procesu",
+                "Např. číslo procesu",
+                ""
+            ],
+            "guid": "I8p=rczD2l",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj vlákno ( neboli light weight process )",
+                "Výpočetní entita ( proud instrukcí ), které je přidělováno jádro CPU<br><div><br></div><div>Jádro OS si pro každé vlákno udržuje informace: identifikaci, zásobník, kontext ...&nbsp;</div>",
+                ""
+            ],
+            "guid": "hRk8R_`!OW",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš Multitaskng",
+                "<img src=\"paste-e32893c7b2d727a39c03fc4cde546e4f08d8a714.jpg\">",
+                ""
+            ],
+            "guid": "eXTD5F(TqL",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš multithreading",
+                "<img src=\"paste-22300cc89aaf75793d642e6c01bb2880867ece4a.jpg\">",
+                ""
+            ],
+            "guid": "i[O;{SfB;s",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké existují druhy vytvoření nového procesu?",
+                "Kopie, klon přes&nbsp;\\(fork\\)<div>Úplně nový proces přes&nbsp;\\(execve\\)</div>",
+                ""
+            ],
+            "guid": "K)7hIFvAPs",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš syscall fork",
+                "<img src=\"paste-651bb4e8620b8734dfee30f73f6b4cc5d2b91982.jpg\">",
+                ""
+            ],
+            "guid": "KC|)OAC.D:",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš syscall execve",
+                "<img src=\"paste-7d402ada74e404a64a0408438ebe533f681a17ee.jpg\">",
+                ""
+            ],
+            "guid": "F/^d9Q}X!x",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš syscall wait",
+                "<img src=\"paste-800cdd1e4227e341084ec38091dcefa858064498.jpg\">",
+                ""
+            ],
+            "guid": "N<A|=W:K&m",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakým způsobem se může ukončit proces?",
+                "Proces se ukončí sám (dojde na konec programu, nebo dojde k zavolání exit())<div>Proces je ukončen jádrem (dojde k fatální chybě)</div>",
+                ""
+            ],
+            "guid": "J?>*.K8xSp",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kroky OS při ukončení procesu",
+                "Pokusí se předat návratový kód rodiči<div>Ukončí všechna vlákna, která existují v procesu</div><div>Uvolní adresový prostor</div>",
+                ""
+            ],
+            "guid": "o:Nt7}q5y*",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš syscall pthread_create",
+                "<img src=\"paste-9ac0bbf077f7502274dcf014fcb90a750c9b8c12.jpg\">",
+                ""
+            ],
+            "guid": "Q#(p105HBh",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš syscall pthread_join",
+                "<img src=\"paste-b8316c5d1bc39a540cc01b5b37c0be2017abecb7.jpg\">",
+                ""
+            ],
+            "guid": "A)po41R6,-",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakým způsobem je přiřazen čas vláknům při preemptivním plánování?",
+                "<img src=\"paste-c2a5fb19e3291f811f8fcfb19255df27bdbea9d1.jpg\">",
+                ""
+            ],
+            "guid": "JK3L}Kq+b!",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je nejčastější způsob plánování vláken?",
+                "Preemtpivní plánování vláken",
+                ""
+            ],
+            "guid": "o.g^mvRJ+c",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy je potřeba přepínat kontext?",
+                "Když se vlánka střídají ve využívání CPU",
+                ""
+            ],
+            "guid": "OH;LqDO~&d",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je kontext vlákna?",
+                "Všechny nezbytné informace, které jsou nutné pro pozdější spuštění přerušeního vlákna od okamžiku přerušení",
+                ""
+            ],
+            "guid": "I%ZAqga{SM",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fáze přepínání kontextu",
+                "Uloží se kontext původního vlákna<div>Jádro OS naplánuje další vlákno</div><div>Nastaví se kontext tohoto vlákna</div>",
+                ""
+            ],
+            "guid": "cE}M0|xJCK",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vyjmenuj možné stavy vláken a přechody mezi nimi",
+                "<img src=\"paste-2dc1e5dcd3fb7856ea5b3258d62127c7ed170b8a.jpg\">",
+                ""
+            ],
+            "guid": "PXfpP,(MFk",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co jsou časové závislé chyby?",
+                "Situace, kdy dvě nebo několik vláken používá (čte / zapisuje) společné sdílené prostředky a výsledek deterministického algoritmu je závislý na rychlosti jednotlivých vláken",
+                ""
+            ],
+            "guid": "bqkk%F%gQI",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je to kritická sekce a sdružená kritická sekce?",
+                "<img src=\"paste-43c8469f11c22ae221f3ba2dad1f54ac2f7462d9.jpg\">",
+                ""
+            ],
+            "guid": "b32D$5[v.x",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy vlákno nesmí do kritické sekce díky vzájemnému vyloučení?",
+                "<img src=\"paste-46caa55c6e9e673faabe2b70f47480663af377df.jpg\">",
+                ""
+            ],
+            "guid": "vh!MKz5hbE",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou pravidla psaní paralerních programů",
+                "Žádné předpoklady nesmí být kladeny na rychlost vláken a počet jader<div><br></div><div>Zajistit výlučný přístup ke sdíleným prostředkům</div><div><br></div><div>Mimo kritickou sekci by vlánko nemělo být blokováno ( zpomalováno ) ostatními vlákny</div>",
+                ""
+            ],
+            "guid": "jeC?!dJf9/",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj Deadlock",
+                "<img src=\"paste-ceb0223f5bd8d40d8881886c98585ace843f1023.jpg\">",
+                ""
+            ],
+            "guid": "u/mvbzM9jj",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj livelock",
+                "<img src=\"paste-b560d9375cb14595726c545ae079c7c68aa1f491.jpg\">",
+                ""
+            ],
+            "guid": "tzV/8i+Qs{",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj hladovění vlákna",
+                "<img src=\"paste-52906e7c6ae9f1cf5ae32dae39b5735214d3f6c0.jpg\">",
+                ""
+            ],
+            "guid": "c@k`HSP6Bq",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Základní rozdělení způsobů synchronizace vláken",
+                "Aktivní čekání<div>Blokující systémová volání</div>",
+                ""
+            ],
+            "guid": "h30C*`jVM~",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš aktivní čekání (proměnné, před vstupem do krit. sekce, po opuštění krit sekce)",
+                "<img src=\"paste-30f449989def76217b8b9d8f878ea7cc8217a6fa.jpg\">",
+                ""
+            ],
+            "guid": "iKuPJ~}FB@",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš naivní implementaci aktivního čekání pomocí jedné proměnné a proč nebude fungovat",
+                "<img src=\"paste-2aef09889549f128697cb7eb9e40d5a263deb5cd.jpg\"><div><img src=\"paste-7821dcdc44fa638093bd09fbe5989c38b01bae53.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "p8A~q!SVCe",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj instrukci TSL ( test-and-set-lock )&nbsp;",
+                "<img src=\"paste-6708201adb1726f89a5cf8896e6f9415fd5e545c.jpg\">",
+                ""
+            ],
+            "guid": "M/8o8XE`xA",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Je instrukce TSL atomická?",
+                "Ano, jinak by se mohlo stát, že jiné vlákno skočí doprostřed jejího vykonávání",
+                ""
+            ],
+            "guid": "MTJaT4])B0",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Z čeho se skládá TSL instrukce?",
+                "<img src=\"paste-2537bd15b165594b073c5d14794ddb537da6f427.jpg\">",
+                ""
+            ],
+            "guid": "c&+_[DLUZ.",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Výhody a nevýhody aktivního čekání",
+                "<img src=\"paste-06ce560ced04ab560fb8d90e52b01c452bb1b701.jpg\">",
+                ""
+            ],
+            "guid": "f5q-&BTAbp",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Struktury dovolující blokující systémové volání typicky implementují",
+                "zapamatování si stavu kritické sekce ( odemčená / zamčená )<div>udržování seznamu vláken, které čekají na vstup do kritické sekce</div>",
+                ""
+            ],
+            "guid": "PiiWs?<;-V",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co se děje před vstupem do kritické sekce ochráněné blokujícím voláním",
+                "<img src=\"paste-bd86eb7b4f6e56e1d47b3ca32c5637f73de62024.jpg\">",
+                ""
+            ],
+            "guid": "O;t$+1|yYh",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co s děje při opouštení kritické sekce ochráněné blokujícím voláním",
+                "<img src=\"paste-f7518680742d0c74cf7af24d6b7694fca09cacaa.jpg\">",
+                ""
+            ],
+            "guid": "Q}vybFCzic",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj zámek ( mutex )",
+                "<img src=\"paste-844fa9b832defa4e600b2a5a83a90db9019856ac.jpg\">",
+                ""
+            ],
+            "guid": "bW`3J1z(m$",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš call mutex_lock",
+                "<img src=\"paste-f759b3facd2075c7dd4d4f962ac54655bbeb2092.jpg\">",
+                ""
+            ],
+            "guid": "jgepH9o,6P",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš call mutex_unlock",
+                "<img src=\"paste-485e1b4fa80b78ee6ec1b5d1d1ae0c50c89a8fbd.jpg\">",
+                ""
+            ],
+            "guid": "M(cz}Eg0Ay",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš problém producent-konzument<div><br></div><div>Co dělá producent?</div><div>Co dělá konzument?</div><div>Jaké jsou vzniklé problémy?</div>",
+                "<img src=\"paste-293e067427bf5b0167669a6f5b87aab63bf52806.jpg\"><div><img src=\"paste-801b7cc06b52a0ce018994a77a96daafb4eaeed7.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "ksMK`0]`b6",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Výhody a nevýhody blokujících volání",
+                "<img src=\"paste-6fc54e76fb461df7989e94a0a3560ba84e887b8c.jpg\">",
+                ""
+            ],
+            "guid": "v*0eVs0(d+",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj podmíněnou proměnnou",
+                "<img src=\"paste-ab5f91805ab584ddf7e6fdfd5f2a4f7b88d66ee1.jpg\">",
+                ""
+            ],
+            "guid": "c_3M@$|OWG",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš operace cond_wait a cond_signal",
+                "<img src=\"paste-6d9f1979805a021c7c969ffe692187212d3fdfc2.jpg\">",
+                ""
+            ],
+            "guid": "O[L8d|{Fo#",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj co obsahuje datový typ semafor",
+                "<img src=\"paste-3898b4ecae7eba3f0084d961d8eefadc58ed7526.jpg\">",
+                ""
+            ],
+            "guid": "mI,ZwC*ZAd",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš operace sem_init, sem_wait, sem_post",
+                "<img src=\"paste-dc4b2a020dc3f728143b83e5adf43abfcc9972aa.jpg\">",
+                ""
+            ],
+            "guid": "uV,TTOw8iw",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj bariéry, jejich použití, co obsahuje",
+                "<img src=\"paste-aee612cbc022ad54946ee578893feb7394402753.jpg\">",
+                ""
+            ],
+            "guid": "F=Z$58UTKC",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš operace barrier_init, barrier_wait",
+                "<img src=\"paste-f75dadc0bb715deeaf14705aaa7710b2b5772bf9.jpg\">",
+                ""
+            ],
+            "guid": "hCN>*5x/s2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-3-tyden"
+            ]
+        }
+    ]
+}
