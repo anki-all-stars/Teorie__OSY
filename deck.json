@@ -38,7 +38,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 50,
+                "perDay": 60,
                 "separate": true
             },
             "recover": 5,
@@ -58,7 +58,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 8,
     "extendRev": 0,
     "media_files": [
         "9EXxdVYDERHPlrbQMwE2Ux_-a8b1sv5-3VhN81Qlfdg.original.fullsize.png",
@@ -161,7 +161,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "osy-3-tyden"
+                "psi-2-tyden"
             ],
             "tmpls": [
                 {
@@ -301,7 +301,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Jaké je rozdělený procesorů podle pořadí zpracování instrukcí?",
+                "Jaké je rozdělení procesorů podle pořadí zpracování instrukcí?",
                 "<img src=\"wyndYyyaQr_1KwjAwYqr33-INX63pEHFzEhS0e7X7HM.original.fullsize.png\">",
                 ""
             ],
