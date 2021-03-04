@@ -51,7 +51,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 50
+                "perDay": 100
             },
             "timer": 0
         }
@@ -161,7 +161,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "psi-2-tyden"
+                "bez-1-tyden"
             ],
             "tmpls": [
                 {
