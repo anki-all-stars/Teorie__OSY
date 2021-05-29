@@ -71,6 +71,7 @@
         "nNnst4_qAOcEHrrI79949aHMoSi4mFWCnZ5Valkiagg.original.fullsize.png",
         "paste-06ce560ced04ab560fb8d90e52b01c452bb1b701.jpg",
         "paste-0b9489733f4ffe11826b86e6bb15c06698c06dae.jpg",
+        "paste-0baf92b72af26e912c707284430d39df75315f05.jpg",
         "paste-12dce5e156fe4861fe99271998a594c99096a3f3.jpg",
         "paste-1b3ac257149c4d307951ccd253ad96098bc275cc.jpg",
         "paste-22300cc89aaf75793d642e6c01bb2880867ece4a.jpg",
@@ -80,34 +81,46 @@
         "paste-2dc1e5dcd3fb7856ea5b3258d62127c7ed170b8a.jpg",
         "paste-30f449989def76217b8b9d8f878ea7cc8217a6fa.jpg",
         "paste-3898b4ecae7eba3f0084d961d8eefadc58ed7526.jpg",
+        "paste-3c1480cd515d2e0cc2805c2063eb07ea779d1b27.jpg",
         "paste-3e1c680f4ee725406a9455de533b61dd5f9d5968.jpg",
         "paste-43c8469f11c22ae221f3ba2dad1f54ac2f7462d9.jpg",
         "paste-46caa55c6e9e673faabe2b70f47480663af377df.jpg",
         "paste-485e1b4fa80b78ee6ec1b5d1d1ae0c50c89a8fbd.jpg",
+        "paste-4cd7bae0be2f685f1a9dbfde3f4ed698f385452d.jpg",
         "paste-52906e7c6ae9f1cf5ae32dae39b5735214d3f6c0.jpg",
+        "paste-5c56fbd8cd2b268704147df4dae3d9c117147dcf.jpg",
         "paste-6207578e60f931522e7f12039cc4f398e7dee9dd.jpg",
         "paste-651bb4e8620b8734dfee30f73f6b4cc5d2b91982.jpg",
         "paste-6708201adb1726f89a5cf8896e6f9415fd5e545c.jpg",
         "paste-6d9f1979805a021c7c969ffe692187212d3fdfc2.jpg",
         "paste-6fc54e76fb461df7989e94a0a3560ba84e887b8c.jpg",
+        "paste-71bf6dccdb19e24cc0924166f648f7483709ca4b.jpg",
         "paste-7821dcdc44fa638093bd09fbe5989c38b01bae53.jpg",
+        "paste-7ab950b49caa0ff2242520dd5b0b40f77dd9582a.jpg",
         "paste-7d402ada74e404a64a0408438ebe533f681a17ee.jpg",
         "paste-800cdd1e4227e341084ec38091dcefa858064498.jpg",
         "paste-801b7cc06b52a0ce018994a77a96daafb4eaeed7.jpg",
         "paste-844fa9b832defa4e600b2a5a83a90db9019856ac.jpg",
+        "paste-8483bb03c758556ca56ffff7af69d0eac22054a6.jpg",
+        "paste-86eeaab46a82f495d8b5817e67405c816d8f1271.jpg",
+        "paste-87a5137c94e1c50f9605d50e6c9a523ae37f87b4.jpg",
         "paste-9ac0bbf077f7502274dcf014fcb90a750c9b8c12.jpg",
         "paste-ab5f91805ab584ddf7e6fdfd5f2a4f7b88d66ee1.jpg",
         "paste-aee612cbc022ad54946ee578893feb7394402753.jpg",
         "paste-b560d9375cb14595726c545ae079c7c68aa1f491.jpg",
         "paste-b8316c5d1bc39a540cc01b5b37c0be2017abecb7.jpg",
+        "paste-b8e003329870178a2ffd6549de8d326d1742c19d.jpg",
         "paste-bd86eb7b4f6e56e1d47b3ca32c5637f73de62024.jpg",
         "paste-c2a5fb19e3291f811f8fcfb19255df27bdbea9d1.jpg",
         "paste-ceb0223f5bd8d40d8881886c98585ace843f1023.jpg",
+        "paste-dac83674e4cf1ea4b28501a53962d6e367507243.jpg",
         "paste-dc4b2a020dc3f728143b83e5adf43abfcc9972aa.jpg",
         "paste-e32893c7b2d727a39c03fc4cde546e4f08d8a714.jpg",
+        "paste-f573dd3799c2f2b396ff492241ea6fe098700b3e.jpg",
         "paste-f7518680742d0c74cf7af24d6b7694fca09cacaa.jpg",
         "paste-f759b3facd2075c7dd4d4f962ac54655bbeb2092.jpg",
         "paste-f75dadc0bb715deeaf14705aaa7710b2b5772bf9.jpg",
+        "paste-febb9f8bb7fffbc6281913b6a6a02bc0f334b4e2.jpg",
         "rlQBnmnBvXHgrF_sN9UOK1GBZfqkmVwsd8KuJP9QUak.original.fullsize.png",
         "tB1mgvE95H5kLitDFh_IoQGJs5wccUMR4NXkau_hR_I.original.fullsize.png",
         "wyndYyyaQr_1KwjAwYqr33-INX63pEHFzEhS0e7X7HM.original.fullsize.png"
@@ -126,7 +139,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Liberation Sans",
@@ -161,7 +174,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "zum-5-tyden"
+                "osy-7-tyden"
             ],
             "tmpls": [
                 {
@@ -177,6 +190,63 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "520cd16e-67e9-11eb-a855-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n\n.nightMode .cloze {\n color: lightblue;\n}\n\n.extra {\n\tcolor: #dddddd;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "osy-7-tyden"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br><br><br>\n<div class=\"extra\">\n{{Extra}}\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -1076,6 +1146,473 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "osy-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj objekt modul",
+                "Množina funkcí, proměnných a metadat zkompilovaná do přemístitelného kódu v binárním formátu, který není prmo spustitelný",
+                ""
+            ],
+            "guid": "mJ|<yMjiVs",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj load module",
+                "Load module: spustitelný binární program. Formát obou typů modulů je zavislý na OS (např. ELF, PE/PE32+)",
+                ""
+            ],
+            "guid": "J+@c8^G|R1",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj statickou knihovnu",
+                "Statická knihovna&nbsp;je knihovna, jejíž kopie je linkerem&nbsp;zahrnuta přímo do výsledného spustitelného souboru&nbsp;na pevně danou adresu",
+                ""
+            ],
+            "guid": "l;=qvhOKLR",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj dynamickou knihovnu",
+                "Knihovna, kterou načítá loader při zavádění programu do paměti",
+                ""
+            ],
+            "guid": "tDK.A5l-kB",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš programy podílející se na převedení zdrojového kódu na spuštěný program v paměti",
+                "<img src=\"paste-8483bb03c758556ca56ffff7af69d0eac22054a6.jpg\">",
+                ""
+            ],
+            "guid": "D}U5v`IO0f",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy se rozhoduje o pozici programu v paměti při použití metody <b>absolutního zavedení</b>?",
+                "Při linkování",
+                "<img src=\"paste-87a5137c94e1c50f9605d50e6c9a523ae37f87b4.jpg\">"
+            ],
+            "guid": "Oufs@yr9#2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy se rozhoduje o pozici programu v paměti při použití metody <b>relocateable loading</b>?",
+                "Při načítání progrmau do paměti loaderem",
+                ""
+            ],
+            "guid": "CPN{(mB+?T",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaký je rozdíl mezi <b>relocateable loading</b> a <b>dynamic runtime loading</b>?",
+                "U relocateable loading přepočítává adresy loader při zavedení programu do paměti<br><br>U dynamic runtime loading je program záváděn s relativními adresami a jejich přepočet je proveden až při vykonávání instrukce hardwarem",
+                ""
+            ],
+            "guid": "u<J`@wFw~L",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sestavovací program ( linker ) vytvoří z&nbsp;{{c1::více objekt modulů}} jeden&nbsp;{{cc::spustitelný modul (load module) }}",
+                ""
+            ],
+            "guid": "NQBgS:]z@|",
+            "note_model_uuid": "520cd16e-67e9-11eb-a855-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se liší statické a dynamické linkování?",
+                "Statické linkování: Linker vytvoří z jednoho/více objektových modulů jedensamostatný spustitelný modul<br><br>Dynamické linkování: Linker vytvoří spustitelný modul obsahující odkazy na další moduly (dynamické knihovny)",
+                ""
+            ],
+            "guid": "u!@8,-{6)#",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Který program se stará o načítání load-time dynamických knihoven?",
+                "Loader",
+                ""
+            ],
+            "guid": "HzG+8VBfFf",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Který program se stará o načítání run-time dynamických knihoven?",
+                "Run-time linker / loader po zavolání funkce dlopen()",
+                ""
+            ],
+            "guid": "C)<j(LY3zh",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaká je rychlost přístupu do cache L1 a L3",
+                "1ns a 10ns",
+                ""
+            ],
+            "guid": "bbM8YZF]dA",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je cache ( skrytá pamět ) ?",
+                "Skrytá pamět' umožňuje minimalizovat průměrnou dobu přístupu k datům pomocí cachování",
+                ""
+            ],
+            "guid": "LC[]}hJPuN",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakými 2 principy se řídí cache ( skrytá pamět ) ?",
+                "- Casová lokalita: k datů, ke kterým se přistupovalo nedávno, se bude pristupovat i v blízké budoucnosti (skrytá pamět' je \"malá\" $\\Rightarrow$ obsahuje pouze nedávno používaná data).<br>- Prostorová lokalita: k datům, která jsou v okolí aktuálně používaných dat, se bude přistupovat v blízké budoucnosti (do skryté paměti se mohou načítat požadovaná data včetně okolních).",
+                ""
+            ],
+            "guid": "zwZ3LP@P;G",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj cache hit counter&nbsp;\\(n_h\\)",
+                "\\(n_h\\): počet případů, kdy data byla ve skryté paměti",
+                ""
+            ],
+            "guid": "u~)W9J#bmF",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj cache hit time \\(t_h\\)",
+                "<div>čas přístupu k datům ve skryté paměti</div>",
+                ""
+            ],
+            "guid": "fs$YW$a(d?",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj cache miss count \\(n_m\\)",
+                "<div>počet případů, kdy data nebyla ve skryté paměti</div>",
+                ""
+            ],
+            "guid": "K4@Gk/u$(f",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj cache miss penalty \\(t_m\\)",
+                "<div>čas přístupu k datům ve zdroji dat mimo cache</div>",
+                ""
+            ],
+            "guid": "Kb|$,d`auu",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj cache reference",
+                "<div>celkový počet přístupů k datům \\(n_{r}=n_{h}+n_{m}\\)</div>",
+                ""
+            ],
+            "guid": "u<+~L;9@jm",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vypočítá cache hit ratio",
+                "<div>\\(r_{h}=\\frac{n_{h}}{n_{r}}=\\frac{n_{h}}{n_{h}+n_{m}}\\)</div>",
+                ""
+            ],
+            "guid": "wmhVs^HK^_",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vypočítá (cache) Average Access Time",
+                "<div>\\(t_{\\text {avg }}=t_{h}+\\left(1-r_{h}\\right) \\times t_{m}\\)</div>",
+                ""
+            ],
+            "guid": "k5#f|AsQUM",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je virtuální adresovový prostor?",
+                "Každý proces má svůj VAS, který se mapuje do fyzické paměti.",
+                ""
+            ],
+            "guid": "p^(PrV>PIr",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké části obsahuje VAS?",
+                "<img src=\"paste-febb9f8bb7fffbc6281913b6a6a02bc0f334b4e2.jpg\">",
+                ""
+            ],
+            "guid": "Gy~0dur@CP",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš VAS identifcký s fyzickou pamětí",
+                "<img src=\"paste-7ab950b49caa0ff2242520dd5b0b40f77dd9582a.jpg\">",
+                ""
+            ],
+            "guid": "hV(s^C#3~|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš VAS implementován dynamickými oblastmi",
+                "Alokuje jednu souvislou oblast fyzické paměti pro celý VAS.",
+                ""
+            ],
+            "guid": "oS6m:34Egh",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problémy s VAS dynamických oblastí",
+                "- Externí fragmentace: po určitém čase je volná pamět' reprezentována příliš malými oblastmi, do kterých se již nevejdou nově vznikající procesy.<br>- Interní fragmentace: VAS obsahuje volnou pamět', do které se může rozpínat halda a zásobníky vláken.",
+                ""
+            ],
+            "guid": "FXpSq!S+w|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je swapping?",
+                "<img src=\"paste-86eeaab46a82f495d8b5817e67405c816d8f1271.jpg\">",
+                ""
+            ],
+            "guid": "xwMM*T+=y}",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakým způsobem se v dynamických oblastech implementaci VAS přepočítavají adresy?",
+                "<img src=\"paste-3c1480cd515d2e0cc2805c2063eb07ea779d1b27.jpg\">",
+                ""
+            ],
+            "guid": "j{qJ8xYH[G",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ve VAS implementaci <b>dynamických oblastní</b>, podle <b>bitové mapy</b>, jak probíhá <b>alokace</b> bloku paměti o velikosti N?",
+                "<img src=\"paste-71bf6dccdb19e24cc0924166f648f7483709ca4b.jpg\">",
+                ""
+            ],
+            "guid": "LyIs9_66-$",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ve VAS implementaci <b>dynamických oblastní</b>, podle <b>bitové mapy</b>, jak probíhá <b>dealokace</b> bloku paměti o velikosti N?",
+                "<img src=\"paste-dac83674e4cf1ea4b28501a53962d6e367507243.jpg\">",
+                ""
+            ],
+            "guid": "f!Y#W}h>k:",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ve VAS implementaci <b>dynamických oblastní</b>, podle <b>zřetězeného seznamu</b>, jak probíhá <b>dealokace</b> bloku paměti o velikosti N?",
+                "<img src=\"paste-0baf92b72af26e912c707284430d39df75315f05.jpg\">",
+                ""
+            ],
+            "guid": "w_.((G0qm/",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ve VAS implementaci <b>dynamických oblastní</b>, podle <b>zřetězeného seznamu</b>, jak probíhá <b>alokace</b> bloku paměti o velikosti N?",
+                "<img src=\"paste-f573dd3799c2f2b396ff492241ea6fe098700b3e.jpg\"><div><img src=\"paste-5c56fbd8cd2b268704147df4dae3d9c117147dcf.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "u%wqQLmj~<",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ve VAS implementaci <b>dynamických oblastní</b>, podle <b>buddy systém</b>, jak probíhá <b>alokace</b> bloku paměti o velikosti N?",
+                "<img src=\"paste-b8e003329870178a2ffd6549de8d326d1742c19d.jpg\">",
+                ""
+            ],
+            "guid": "M,JX[*payg",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ve VAS implementaci <b>dynamických oblastní</b>, podle <b>buddy systém</b>, jak probíhá <b>dealokace</b> bloku paměti o velikosti N?",
+                "<img src=\"paste-4cd7bae0be2f685f1a9dbfde3f4ed698f385452d.jpg\">",
+                ""
+            ],
+            "guid": "dB>uzOu;NR",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš VAS stránkování",
+                "Fyzická pamět' (hlavní pamět')<br>- Představme si, že je rozdělená na úseky stejné velikosti (např. 4KB) nazývané rámce (frames).<br>VAS<br>- Představme si, že je rozdělený na úseky stejné velikosti nazývané stránky (pages).<br><br><div>Velikost rámce a stránky je stejná.</div>",
+                ""
+            ],
+            "guid": "rhm6#+-wE9",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "osy-7-tyden"
             ]
         }
     ]
